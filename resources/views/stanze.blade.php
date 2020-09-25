@@ -3,9 +3,9 @@
 @section('content')
 
   <h1>STANZE</h1>
-  {{-- <h3>
-      <a href="{{ route('ospite-create') }}">NEW OSPITE</a>
-  </h3> --}}
+  <h3>
+      <a href="{{ route('stanza-create') }}">NEW STANZA</a>
+  </h3>
     <ul>
       @foreach ($stanze as $stanza)
         <li>
