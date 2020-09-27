@@ -11,11 +11,7 @@
       @method('POST')
 
 
-      <div class="form-group">
-        <label for="id">ID</label>
-        <br>
-        <input type="text" name="id" value="">
-      </div>
+    
       <div class="form-group">
         <label for="room_number">ROOM NUMBER</label>
         <br>

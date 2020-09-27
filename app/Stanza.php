@@ -10,7 +10,6 @@ class Stanza extends Model
 
     protected $fillable = [
 
-      "id",
       "room_number",
       "floor",
       "beds"

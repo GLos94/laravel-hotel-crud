@@ -8,9 +8,6 @@
   </h1>
     <ul>
          <li>
-           ID: {{ $stanza -> id }}
-         </li>
-         <li>
            ROOM NUMBER:  {{ $stanza -> room_number}}
          </li>
          <li>
